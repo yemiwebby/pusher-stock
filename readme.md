@@ -2,5 +2,5 @@
 
 - Clone repository
 - run npm install
-- start sever with `npm run server`
+- start node sever with `npm run serve`
 - start web app with `npm run dev`
